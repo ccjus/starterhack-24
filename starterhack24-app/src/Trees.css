@@ -1,0 +1,15 @@
+/* Trees.css */
+
+.trees-container {
+    position: relative; 
+    top: 900px;
+    right: 343px;
+    width: 190%; 
+    box-sizing: border-box; 
+}
+
+.trees-image {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+}

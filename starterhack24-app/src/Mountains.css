@@ -1,0 +1,15 @@
+/* Mountain.css */
+
+.mountains-container {
+    position: relative; 
+    top: 1350px;
+    right: 343px;
+    width: 190%; 
+    box-sizing: border-box; 
+}
+
+.mountains-image {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+}

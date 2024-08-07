@@ -1,0 +1,39 @@
+.text-box-container {
+    font-size: 18px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff; 
+}
+
+.dropdown-item {
+    border-bottom: 1px solid #ddd;
+}
+
+.dropdown-header {
+    padding: 15px;
+    cursor: pointer;
+    background-color: #fff; 
+    font-weight: bold;
+    border-bottom: 1px solid #ddd; 
+}
+
+.dropdown-title {
+    display: inline-block;
+}
+
+.dropdown-content {
+    padding: 15px;
+    background-color: #fff; 
+}
+
+.dropdown-content p {
+    margin: 0;
+}
+
+.dropdown-item:last-child {
+    border-bottom: none;
+}
