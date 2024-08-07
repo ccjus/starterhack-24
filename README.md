@@ -1,5 +1,7 @@
 project for starterhacks 2024 @ waterloo
 
+
+
 basically our project was called "fireaid" and the idea was for it to be a place where victims of wildfires could talk to other victims and have access to resources to help them out during this hard part of their life
 
 i wrote all of the frontend and my other group members focused on the pitch and the early stages of the idea/designing
